@@ -3,7 +3,7 @@
 
 - I’m currently working on [Relayed](https://github.com/IanTerzo/Relayed)
 
-- 📧 Reach me at **ian.baldelli@gmail.com**
+- Reach me at **ian.baldelli@gmail.com**
 
 <p align="left">
 </p>
