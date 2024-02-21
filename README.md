@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="left">Hi, I'm IanTerzo</h1>
+<h3 align="left">Fullstack developer from Sweden</h3>
 
-<!--
-**IanTerzo/IanTerzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on [Relayed](https://github.com/IanTerzo/Relayed)
 
-Here are some ideas to get you started:
+- 📧 Reach me at **ian.baldelli@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+</p>
+
+<details>
+<summary>My GitHub Stats</summary>
+<p></p>
+
+![IanTerzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianterzo\&show_icons=true\&bg_color=00000000)
+
+</details>
